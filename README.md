@@ -1,5 +1,5 @@
 # HD44780_LCD_webfont
-A webfontpack - Hitachi HD44780 LCD Latin Character Map font
+Hitachi HD44780 LCD Latin Character Map based webfont pack
 
 ### Demonstration:
 A live HTML [ DEMO! ](https://dosputin.github.io/HD44780_LCD_webfont/)
